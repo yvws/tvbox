@@ -1,8 +1,8 @@
 [
     {
-        "bookSourceComment": "基于 PyFQWeb 项目开发的 Legado 兼容书源",
-        "bookSourceGroup": "番茄小说,pyfqweb",
-        "bookSourceName": "番茄小说（喵公子API）",
+        "bookSourceComment": "基于番茄小说项目开发",
+        "bookSourceGroup": "番茄小说",
+        "bookSourceName": "番茄小说",
         "bookSourceType": 0,
         "bookSourceUrl": "https://api.ioli.cc",
         "bookUrlPattern": "",
